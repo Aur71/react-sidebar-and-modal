@@ -1,5 +1,5 @@
 import React from 'react';
-import { useState, useEffect, useCallback, useRef } from 'react';
+import { useState } from 'react';
 import { GiHamburgerMenu } from 'react-icons/gi';
 import Sidebar from './Sidebar';
 import { MdClose } from 'react-icons/md';
